@@ -1,0 +1,4 @@
+{
+  "name": "awesome-chatgpt-prompts-zh",
+  "install": "python3 .cursor/validate_prompts.py"
+}
